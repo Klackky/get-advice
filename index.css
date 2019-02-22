@@ -1,0 +1,31 @@
+.central {
+    text-align: center;
+    margin-top: 18%;
+    background-color: #a8104a;
+    padding: 100px;
+}
+
+.show-advice {
+    padding: 10px 21px;
+    font-family: inherit;
+    font-size: 15px;
+    border: 1px solid black;
+    margin: 20px;
+}
+
+body {
+    background-color: #ff1c73;
+    color: white;
+    font-size: 18px;
+}
+
+#search {
+    height: 25px;
+    width: 172px;
+}
+
+.submit-button {
+    padding: 7px;
+    font-size: 15px;
+    font-family: inherit;
+}
